@@ -1,1 +1,1 @@
-# Electric_Vehicle_Battery_Life_Prediction_Using_ANN
+# Electric Vehicle Battery Life Prediction Using ANN, Advanced Regression with Keras, NASA Battery Dataset
